@@ -3,3 +3,6 @@ This repository has some of the most useful PowerShell scripts that you can use 
 1. WindowsServicesManager.ps1:
 Analyze which Windows service did not automatically start after a reboot and start them.
 ![image](https://github.com/KhanAhmad-cmd/PowerShell-Scripts/assets/83468415/0b580a1f-cd4f-4478-a411-ddb86a8ee7ab)
+2. InstallTheLatestVersionOfGoogleChrome.ps1
+Automatically install the latest version of Google Chrome on your PC.
+![image](https://github.com/KhanAhmad-cmd/PowerShell-Scripts/assets/83468415/01a4c824-95a2-44e7-9ead-b8e9ac36bddc)
