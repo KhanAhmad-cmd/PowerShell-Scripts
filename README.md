@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/9e90af1b-e689-4b2e-bf06-385ab2d9879e)# PowerShell-Scripts
-This repository has some of the most useful PowerShell scripts that you can use in your day-to-day work. 
+This repository (under-development) has some of the most useful PowerShell scripts that you can use in your day-to-day work. 
 
 1. WindowsServicesManager.ps1: Analyze which Windows service did not automatically start after a reboot and start them.
 
